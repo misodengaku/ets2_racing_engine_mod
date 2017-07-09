@@ -1,6 +1,6 @@
 SiiNunit
 {
-accessory_transmission_data : racing_engine_tr_ver5.volvo.fh16.transmission
+accessory_transmission_data : rtr_5.volvo.fh16.transmission
 {
 	name: "R 5"
 	price: 100
