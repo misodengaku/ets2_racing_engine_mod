@@ -1,0 +1,44 @@
+SiiNunit
+{
+accessory_engine_data : racing_engine_ver5.volvo.fh16.engine
+{
+
+	name: "R 5 150000"
+
+	price: 100
+
+	unlock: 0
+	info[]: "2000 @@hp@@ (1471@@kw@@)"
+
+	info[]: "223@@dg@@613@@dg@@652.1572 @@nm@@"
+
+	info[]: "6@@dg@@000-9@@dg@@000 @@rpm@@"
+
+	rpm_limit: 10500
+	rpm_limit_neutral: 15000
+	torque_curve[]: (1000, 0.642201835)
+	torque_curve[]: (1500, 0.711009174)
+	torque_curve[]: (2000, 0.756880734)
+	torque_curve[]: (2500, 0.802752294)
+	torque_curve[]: (3000, 0.825688073)
+	torque_curve[]: (3500, 0.825688073)
+	torque_curve[]: (4000, 0.825688073)
+	torque_curve[]: (4500, 0.825688073)
+	torque_curve[]: (5000, 0.825688073)
+	torque_curve[]: (5500, 0.871559633)
+	torque_curve[]: (6000, 0.917431193)
+	torque_curve[]: (6500, 0.963302752)
+	torque_curve[]: (7000, 0.986238532)
+	torque_curve[]: (7500, 1)
+	torque_curve[]: (8000, 0.986238532)
+	torque_curve[]: (8500, 0.917431193)
+	torque_curve[]: (9000, 0.825688073)
+	rpm_idle: 5000
+	icon: "engine_01"
+
+	torque: 510000
+
+
+	volume:	16.1
+}
+}

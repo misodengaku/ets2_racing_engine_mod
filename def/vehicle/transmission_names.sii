@@ -1,0 +1,152 @@
+SiiNunit
+{
+
+transmission_names: tr_names.9_gears
+{
+	# reverse gear
+	
+	ratios[0]: "R"
+	
+	# neutral
+	
+	ratios[1]: "N"
+
+	# forward gears
+
+	ratios[2]:  "1"
+	ratios[3]:  "2"
+	ratios[4]:  "3"
+	ratios[5]:  "4"
+	ratios[6]:  "5"
+	ratios[7]:  "6"
+	ratios[8]:  "7"
+	ratios[9]:  "8"
+	ratios[10]: "9"
+}
+
+transmission_names: tr_names.12_gears
+{
+	ratios[0]: "R"
+
+	
+	# neutral
+	
+	ratios[1]: "N"
+
+	# forward gears
+
+	ratios[2]:  "1"
+	ratios[3]:  "2"
+	ratios[4]:  "3"
+	ratios[5]:  "4"
+	ratios[6]:  "5"
+	ratios[7]:  "6"
+	ratios[8]:  "7"
+	ratios[9]:  "8"
+	ratios[10]: "9"
+	ratios[11]: "10"
+	ratios[12]: "11"
+	ratios[13]: "12"
+}
+
+transmission_names: tr_names.14_gears
+{
+	# reverse gear
+	
+	ratios[0]: "R"
+
+	# neutral
+	
+	ratios[1]: "N"
+
+	
+	# forward gears
+
+	ratios[2]:  "1"
+	ratios[3]:  "2"
+	ratios[4]:  "3"
+	ratios[5]:  "4"
+	ratios[6]:  "5"
+	ratios[7]:  "6"
+	ratios[8]:  "7"
+	ratios[9]:  "8"
+	ratios[10]: "9"
+	ratios[11]: "10"
+	ratios[12]: "11"
+	ratios[13]: "12"
+	ratios[14]: "13"
+	ratios[15]: "14"
+}
+
+transmission_names: tr_names.16_gears
+{
+	# reverse gear
+	
+	ratios[0]: "R"
+
+	# neutral
+	
+	ratios[1]: "N"
+
+	
+	# forward gears
+
+	ratios[2]:  "1"
+	ratios[3]:  "2"
+	ratios[4]:  "3"
+	ratios[5]:  "4"
+	ratios[6]:  "5"
+	ratios[7]:  "6"
+	ratios[8]:  "7"
+	ratios[9]:  "8"
+	ratios[10]: "9"
+	ratios[11]: "10"
+	ratios[12]: "11"
+	ratios[13]: "12"
+	ratios[14]: "13"
+	ratios[15]: "14"
+	ratios[16]: "15"
+	ratios[17]: "16"
+}
+
+
+transmission_names: tr_names.24_gears
+{
+	# reverse gear
+	
+	ratios[0]: "R"
+
+	# neutral
+	
+	ratios[1]: "N"
+
+	
+	# forward gears
+
+	ratios[2]:  "1-L1"
+	ratios[3]:  "2-L1"
+	ratios[4]:  "3-L1"
+	ratios[5]:  "4-L1"
+	ratios[6]:  "5-L1"
+	ratios[7]:  "6-L1"
+	ratios[8]:  "1-L2"
+	ratios[9]:  "2-L2"
+	ratios[10]: "3-L2"
+	ratios[11]: "4-L2"
+	ratios[12]: "5-L2"
+	ratios[13]: "6-L2"
+	ratios[14]: "1-H3"
+	ratios[15]: "2-H3"
+	ratios[16]: "3-H3"
+	ratios[17]: "4-H3"
+	ratios[18]: "5-H3"
+	ratios[19]: "6-H3"
+	ratios[20]: "1-H4"
+	ratios[21]: "2-H4"
+	ratios[22]: "3-H4"
+	ratios[23]: "4-H4"
+	ratios[24]: "5-H4"
+	ratios[25]: "6-H4"
+	
+}
+}
